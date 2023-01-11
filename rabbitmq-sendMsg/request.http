@@ -1,0 +1,6 @@
+GET http://localhost:3001/users/register HTTP/1.1
+
+### 
+
+GET http://localhost:3001/users/login HTTP/1.1
+
